@@ -8,3 +8,14 @@
 # Q&A
 
 # Audit scope
+
+
+[pco-art @ 4acd6b06840028ba616b6200439ce0d6aa1e6276](https://github.com/RadicalxChange/pco-art/tree/4acd6b06840028ba616b6200439ce0d6aa1e6276)
+- [pco-art/contracts/auction/EnglishPeriodicAuctionInternal.sol](pco-art/contracts/auction/EnglishPeriodicAuctionInternal.sol)
+- [pco-art/contracts/auction/EnglishPeriodicAuctionStorage.sol](pco-art/contracts/auction/EnglishPeriodicAuctionStorage.sol)
+- [pco-art/contracts/auction/IEnglishPeriodicAuctionInternal.sol](pco-art/contracts/auction/IEnglishPeriodicAuctionInternal.sol)
+- [pco-art/contracts/auction/IPeriodicAuctionReadable.sol](pco-art/contracts/auction/IPeriodicAuctionReadable.sol)
+- [pco-art/contracts/auction/IPeriodicAuctionWritable.sol](pco-art/contracts/auction/IPeriodicAuctionWritable.sol)
+- [pco-art/contracts/auction/facets/EnglishPeriodicAuctionFacet.sol](pco-art/contracts/auction/facets/EnglishPeriodicAuctionFacet.sol)
+
+
