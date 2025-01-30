@@ -1,0 +1,15 @@
+config:
+  framework: "hardhat" 
+  framework_version: "^2.12.4" 
+  node_version: "20" 
+  package_manager: "yarn"
+
+environment:
+  API_KEY_ETHERSCAN: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  NODE_URL_TESTNET: "https://rpc.gnosis.gateway.fm"
+  PKEY_TESTNET: "0x348ce564d427a3311b6536bbcff9390d69395b06ed6c486954e971d960fe8709"
+  REPORT_GAS: "true"
+
+tasks:
+  install-dependencies:
+    - yarn install
